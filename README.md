@@ -93,7 +93,8 @@ plt.axis('off')
 <br>
 
 ### Display the result of Closing
-![Screenshot (198)](https://user-images.githubusercontent.com/75234946/171362186-e4260d58-9d6f-4810-bc33-6158fb9259f2.png)
+![Screenshot (199)](https://user-images.githubusercontent.com/75234946/171362480-155d77a7-25cb-4568-8592-ec4ec1e4f209.png)
+
 
 <br>
 <br>
