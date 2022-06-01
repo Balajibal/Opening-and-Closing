@@ -73,7 +73,8 @@ plt.axis('off')
 ## Output:
 
 ### Display the input Image
-![Screenshot (196)](https://user-images.githubusercontent.com/75234946/171362005-d39b5256-fd5d-4623-9164-42c7348267fd.png)
+![Screenshot (200)](https://user-images.githubusercontent.com/75234946/171363578-1c2456b4-19b5-43c9-a67f-1bd3911ebcb2.png)
+
 
 <br>
 <br>
@@ -83,7 +84,8 @@ plt.axis('off')
 <br>
 
 ### Display the result of Opening
-![Screenshot (197)](https://user-images.githubusercontent.com/75234946/171362074-4f344620-e84f-438c-8b5d-d7c1417774ed.png)
+![Screenshot (201)](https://user-images.githubusercontent.com/75234946/171363800-d4450704-bc0b-4c93-a234-c10b6b2c5bc7.png)
+
 
 <br>
 <br>
@@ -93,7 +95,8 @@ plt.axis('off')
 <br>
 
 ### Display the result of Closing
-![Screenshot (199)](https://user-images.githubusercontent.com/75234946/171362480-155d77a7-25cb-4568-8592-ec4ec1e4f209.png)
+![Screenshot (202)](https://user-images.githubusercontent.com/75234946/171364052-9540fbf1-2b46-451d-a3ae-9c7aa190021a.png)
+
 
 
 <br>
